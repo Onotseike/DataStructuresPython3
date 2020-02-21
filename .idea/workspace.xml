@@ -20,26 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc286051-9690-446b-bb10-954d531db3da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataStructuresPython3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresPython/Scripts/LinkedList.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresPython/Scripts/LinkedListsDescriptiveSummary.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresPython/Scripts/StacksnQueues.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresPython/Scripts/StacksnQueues.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresPython/Scripts/Problems/array_problems.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataStructuresPython3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructuresPython3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresPython/Scripts/Non-Linear Data Structures/BinaryTree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresPython/Scripts/Non-Linear Data Structures/BinaryTree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="48364500-db85-46a3-a284-71ffc2442e90" />
+  <component name="JupyterTrust" id="ea483f9e-b5d5-42d2-a635-69ab8d9714f3">
+    <option name="files">
+      <option value="DataStructuresPython\Scripts\Non-Linear Data Structures\BinaryTree.ipynb" />
+      <option value="DataStructuresPython\Scripts\Problems\array_problems.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1Y5Xh5aUN9RXrPTrnd5yT6VMb6A" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,6 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582233544575</updated>
       <workItem from="1582233548529" duration="2571000" />
+      <workItem from="1582293965737" duration="8233000" />
+      <workItem from="1582308302339" duration="5064000" />
     </task>
     <servers />
   </component>
@@ -123,5 +133,9 @@
       <screen x="3000" y="0" width="720" height="1280" />
     </state>
     <state width="673" height="434" key="GridCell.Tab.1.right/0.0.1500.1000/3000.0.720.1280@3000.0.720.1280" timestamp="1582235643640" />
+    <state x="2693" y="189" key="SettingsEditor" timestamp="1582294819499">
+      <screen x="1920" y="10" width="2560" height="1080" />
+    </state>
+    <state x="2693" y="189" key="SettingsEditor/0.0.1920.1080/1920.10.2560.1080@1920.10.2560.1080" timestamp="1582294819499" />
   </component>
 </project>
